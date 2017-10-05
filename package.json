@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-app",
+  "version": "1.0.0",
+  "description": "an app in node that prompts the user to create flashcards and then practice with them",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmccon7/Flashcard-Generator.git"
+  },
+  "author": "Matthew McConaghie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmccon7/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/mmccon7/Flashcard-Generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.3.0"
+  }
+}
