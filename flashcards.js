@@ -78,7 +78,7 @@ var showCards = function(){
 			fs.readFile("./log.txt", "utf8", bar)
 			function bar(err,data)
 			{
-			console.log(JSON.stringify(data),"utf8");
+			console.log(JSON.stringify(data),"utf8", + "\r\n");
 			};
 		};
 	})

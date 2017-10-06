@@ -1,1 +1,1 @@
-{"front":"What is the capital city of Arizona?","back":"Phoenix"};{"text":"Washington was the first President of the United States","cloze":"Washington"};{"front":"What year was the Declaration of Independence signed?","back":"1776"};
+{"text":"My name is George","cloze":"George"};{"front":"What is the capital city of Rhode Island?","back":"Providence"};{"text":"Hola is Hello in Spanish","cloze":"Hola"};
